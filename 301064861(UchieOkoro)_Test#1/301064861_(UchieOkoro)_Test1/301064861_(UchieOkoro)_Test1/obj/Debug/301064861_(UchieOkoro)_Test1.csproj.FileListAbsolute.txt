@@ -1,0 +1,16 @@
+D:\Courses\COMP212PROG3\301064861(UchieOkoro)_Test#1\301064861_(UchieOkoro)_Test1\301064861_(UchieOkoro)_Test1\bin\Debug\301064861_(UchieOkoro)_Test1.exe.config
+D:\Courses\COMP212PROG3\301064861(UchieOkoro)_Test#1\301064861_(UchieOkoro)_Test1\301064861_(UchieOkoro)_Test1\bin\Debug\301064861_(UchieOkoro)_Test1.exe
+D:\Courses\COMP212PROG3\301064861(UchieOkoro)_Test#1\301064861_(UchieOkoro)_Test1\301064861_(UchieOkoro)_Test1\bin\Debug\301064861_(UchieOkoro)_Test1.pdb
+D:\Courses\COMP212PROG3\301064861(UchieOkoro)_Test#1\301064861_(UchieOkoro)_Test1\301064861_(UchieOkoro)_Test1\obj\Debug\301064861_(UchieOkoro)_Test1.csprojAssemblyReference.cache
+D:\Courses\COMP212PROG3\301064861(UchieOkoro)_Test#1\301064861_(UchieOkoro)_Test1\301064861_(UchieOkoro)_Test1\obj\Debug\MainWindow.g.cs
+D:\Courses\COMP212PROG3\301064861(UchieOkoro)_Test#1\301064861_(UchieOkoro)_Test1\301064861_(UchieOkoro)_Test1\obj\Debug\App.g.cs
+D:\Courses\COMP212PROG3\301064861(UchieOkoro)_Test#1\301064861_(UchieOkoro)_Test1\301064861_(UchieOkoro)_Test1\obj\Debug\301064861_(UchieOkoro)_Test1_MarkupCompile.cache
+D:\Courses\COMP212PROG3\301064861(UchieOkoro)_Test#1\301064861_(UchieOkoro)_Test1\301064861_(UchieOkoro)_Test1\obj\Debug\301064861_(UchieOkoro)_Test1_MarkupCompile.lref
+D:\Courses\COMP212PROG3\301064861(UchieOkoro)_Test#1\301064861_(UchieOkoro)_Test1\301064861_(UchieOkoro)_Test1\obj\Debug\MainWindow.baml
+D:\Courses\COMP212PROG3\301064861(UchieOkoro)_Test#1\301064861_(UchieOkoro)_Test1\301064861_(UchieOkoro)_Test1\obj\Debug\301064861_(UchieOkoro)_Test1.g.resources
+D:\Courses\COMP212PROG3\301064861(UchieOkoro)_Test#1\301064861_(UchieOkoro)_Test1\301064861_(UchieOkoro)_Test1\obj\Debug\_301064861__UchieOkoro__Test1.Properties.Resources.resources
+D:\Courses\COMP212PROG3\301064861(UchieOkoro)_Test#1\301064861_(UchieOkoro)_Test1\301064861_(UchieOkoro)_Test1\obj\Debug\301064861_(UchieOkoro)_Test1.csproj.GenerateResource.cache
+D:\Courses\COMP212PROG3\301064861(UchieOkoro)_Test#1\301064861_(UchieOkoro)_Test1\301064861_(UchieOkoro)_Test1\obj\Debug\301064861_(UchieOkoro)_Test1.exe
+D:\Courses\COMP212PROG3\301064861(UchieOkoro)_Test#1\301064861_(UchieOkoro)_Test1\301064861_(UchieOkoro)_Test1\obj\Debug\301064861_(UchieOkoro)_Test1.pdb
+D:\Courses\COMP212PROG3\301064861(UchieOkoro)_Test#1\301064861_(UchieOkoro)_Test1\301064861_(UchieOkoro)_Test1\obj\Debug\AddTransaction.g.cs
+D:\Courses\COMP212PROG3\301064861(UchieOkoro)_Test#1\301064861_(UchieOkoro)_Test1\301064861_(UchieOkoro)_Test1\obj\Debug\AddTransaction.baml

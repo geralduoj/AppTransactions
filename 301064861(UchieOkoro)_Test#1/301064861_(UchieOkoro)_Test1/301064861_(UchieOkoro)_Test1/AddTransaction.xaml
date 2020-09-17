@@ -1,0 +1,29 @@
+﻿<Window x:Class="_301064861__UchieOkoro__Test1.AddTransaction"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_301064861__UchieOkoro__Test1"
+        mc:Ignorable="d"
+        Title="AddTransaction" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="id" Content="ID" HorizontalAlignment="Left" Margin="10,28,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="fname" Content="First Name:" HorizontalAlignment="Left" Margin="10,64,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lname" Content="Last Name:" HorizontalAlignment="Left" Margin="10,96,0,0" VerticalAlignment="Top"/>
+        <DataGrid x:Name="salsInfogrd" HorizontalAlignment="Left" Height="234" Margin="10,144,0,0" VerticalAlignment="Top" Width="475"/>
+        <TextBox x:Name="idTXT" HorizontalAlignment="Left" Height="23" Margin="95,32,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="fnameTXT" HorizontalAlignment="Left" Height="23" Margin="95,66,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="lnameTXT" HorizontalAlignment="Left" Height="23" Margin="95,99,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="transIDLBL" Content="Transaction ID:" HorizontalAlignment="Left" Margin="507,178,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="prodNameLBL" Content="Product Name:" HorizontalAlignment="Left" Margin="507,209,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="QuantityLBL" Content="Quantity:" HorizontalAlignment="Left" Margin="507,240,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="transDateLBL" Content="Transaction Date:" HorizontalAlignment="Left" Margin="507,271,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="transIDTXT" HorizontalAlignment="Left" Height="23" Margin="624,180,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="qtyTXT" HorizontalAlignment="Left" Height="23" Margin="624,244,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <DatePicker x:Name="transDateTXT" HorizontalAlignment="Left" Margin="624,271,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="addTransBTN" Content="Add Transaction" HorizontalAlignment="Left" Margin="507,328,0,0" VerticalAlignment="Top" Width="101" Height="31" Click="addTransBTN_Click"/>
+        <Button x:Name="backtoMainBTN" Content="Back to Main Window" HorizontalAlignment="Left" Margin="624,328,0,0" VerticalAlignment="Top" Width="138" Height="31" Click="backtoMainBTN_Click"/>
+        <ComboBox x:Name="prod_combo" HorizontalAlignment="Left" Margin="624,209,0,0" VerticalAlignment="Top" Width="120" Loaded="Product_Loaded"/>
+
+    </Grid>
+</Window>
